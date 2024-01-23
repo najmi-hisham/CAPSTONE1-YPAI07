@@ -13,20 +13,19 @@ The main file is from the second content. This python file consist of all step t
 For the time_series_helper, it was python class that adjust the window size for this project (30 days as input, next 30 days as label). The summary for this model architecture can be seen as below.
 
 # MODEL ARCHITECTURE
-![image](https://github.com/najmi-hisham/CAPSTONE1-YPAI07/assets/69621770/21f7853a-a3b6-4634-ae9d-1cdf2b04136b)
+![model_architecture](https://github.com/najmi-hisham/CAPSTONE1-YPAI07/assets/69621770/a6f8a8b9-ab4e-496d-b85b-e9bdd297b8ef)
+
 
 # RESULT
-1. EPOCH LOSS FOR TRAIN AND TEST DATASET
+1. EPOCH LOSS FOR TRAIN AND VALIDATION DATASET
 
-![EPOCH_LOSS_train test](https://github.com/najmi-hisham/CAPSTONE1-YPAI07/assets/69621770/75717d57-ca68-4147-88a7-aaf94eff555d)
+![Tensorboard Loss](https://github.com/najmi-hisham/CAPSTONE1-YPAI07/assets/69621770/9261486c-4ea8-4a99-be2d-e6d84d0f98e8 "Tensorboard")
 
-2. MEAN ABSOLUTE PERCENTAGE ERROR TEST DATASET
+![Training Loss](https://github.com/najmi-hisham/CAPSTONE1-YPAI07/assets/69621770/0644470d-041a-4fcc-9935-45e85fbdc365  "Training Loss only")
 
-![MAPE_test](https://github.com/najmi-hisham/CAPSTONE1-YPAI07/assets/69621770/f45bb1c3-2fda-4ff9-a93f-dc69a275b1c5)
+2. REAL VS PREDICTED CASES
 
-3. REAL VS PREDICTED CASES
-
-![predicted vs real](https://github.com/najmi-hisham/CAPSTONE1-YPAI07/assets/69621770/71d22858-292c-4c98-a32e-94799654d005)
+![Predicted vs Real](https://github.com/najmi-hisham/CAPSTONE1-YPAI07/assets/69621770/6162eef4-0202-4f81-87e3-fa6c1872542f)
 
 
 # 
